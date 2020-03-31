@@ -1,0 +1,4 @@
+[INFO ] 2020-03-20 17:48:12.998 [main] log4jConcept - This is information
+[WARN ] 2020-03-20 17:48:13.001 [main] log4jConcept - This is Warning
+[FATAL] 2020-03-20 17:48:13.001 [main] log4jConcept - This is fatal
+[ERROR] 2020-03-20 17:48:13.001 [main] log4jConcept - This is error

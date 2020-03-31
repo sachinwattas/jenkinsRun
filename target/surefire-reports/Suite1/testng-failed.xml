@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite1]" parallel="methods">
+  <parameter name="var1" value="value1"/>
+  <listeners>
+    <listener class-name="TestNGListener"/>
+  </listeners>
+  <test thread-count="2" verbose="0" name="exampletest1(failed)" parallel="methods">
+    <groups>
+      <run>
+        <include name="test"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="TestNGConcept">
+        <methods>
+          <include name="testMethod1"/>
+        </methods>
+      </class> <!-- TestNGConcept -->
+    </classes>
+  </test> <!-- exampletest1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
