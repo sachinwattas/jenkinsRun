@@ -9,7 +9,7 @@ public class retryConcept implements IRetryAnalyzer {
     public boolean retry(ITestResult iTestResult) {
         if(intialCount<maxIntialCount) {
             intialCount++;
-            return true;
+            return true ;
         }
         return false;
     }

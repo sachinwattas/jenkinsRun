@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../CIProject/src/test/java/TestBase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../POM_Fmarwork_freeCRM/.idea/dictionaries/sachin.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../POM_Fmarwork_freeCRM/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Utility/retryConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Utility/retryConcept.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POM_Fmarwork_freeCRM/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../POM_Fmarwork_freeCRM/.idea/compiler.xml" beforeDir="false" />
@@ -75,14 +74,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="java" value="4379" />
+          <entry key="java" value="4380" />
           <entry key="properties" value="53" />
           <entry key="xml" value="203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4379" />
+          <entry key="JAVA" value="4380" />
           <entry key="PLAIN_TEXT" value="24" />
           <entry key="Properties" value="53" />
           <entry key="XML" value="203" />
@@ -190,8 +189,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Utility/retryConcept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -788,8 +787,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Utility/retryConcept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
